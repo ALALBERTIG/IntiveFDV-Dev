@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntiveFDV-DevExercise", "IntiveFDV-DevExercise\IntiveFDV-DevExercise.csproj", "{866F3E81-FCD7-4716-B94B-1D009B8FC48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntiveFDV-DevExerciseTest", "IntiveFDV-DevExerciseTest\IntiveFDV-DevExerciseTest.csproj", "{6BCC00CC-FB5E-4AE0-BBF5-A242016C807C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA66EBE9-1454-4E3A-B03F-4173DCA7DE3B}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866F3E81-FCD7-4716-B94B-1D009B8FC48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866F3E81-FCD7-4716-B94B-1D009B8FC48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866F3E81-FCD7-4716-B94B-1D009B8FC48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866F3E81-FCD7-4716-B94B-1D009B8FC48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCC00CC-FB5E-4AE0-BBF5-A242016C807C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCC00CC-FB5E-4AE0-BBF5-A242016C807C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCC00CC-FB5E-4AE0-BBF5-A242016C807C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCC00CC-FB5E-4AE0-BBF5-A242016C807C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF262891-F0C5-475E-9C5B-F10D12C02307}
+	EndGlobalSection
+EndGlobal
